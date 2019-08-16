@@ -7,7 +7,7 @@
          "path": "../b"
       },
       {
-         "path": ".."
+         "path": "../../submodules"
       }
    ],
    "settings": {
