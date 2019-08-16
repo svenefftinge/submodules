@@ -1,4 +1,4 @@
 tasks:
 - command: go build
 workspaceLocation: "submodules"
-checkoutLocation: "."
+checkoutLocation: "submodules"
