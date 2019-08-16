@@ -1,0 +1,17 @@
+{
+   "folders": [
+      {
+         "path": "a"
+      },
+      {
+         "path": "b"
+      },
+      {
+         "path": "."
+      }
+   ],
+   "settings": {
+      "workspace.supportMultiRootWorkspace": true,
+      "go.useLanguageServer": true
+   }
+}

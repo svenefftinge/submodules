@@ -1,0 +1,3 @@
+tasks:
+- command: go build
+workspaceLocation: submodules/.theia/workspace.json
