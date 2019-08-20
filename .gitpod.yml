@@ -1,4 +1,4 @@
 tasks:
 - command: go build
-workspaceLocation: "submodules/.theia/workspace.json"
+workspaceLocation: "submodules/workspace.json"
 checkoutLocation: "submodules"

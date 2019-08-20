@@ -1,13 +1,13 @@
 {
    "folders": [
       {
-         "path": "../a"
+         "path": ""
       },
       {
-         "path": "../b"
+         "path": "a"
       },
       {
-         "path": "../../submodules"
+         "path": "b"
       }
    ],
    "settings": {
