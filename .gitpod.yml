@@ -1,5 +1,7 @@
 tasks:
 - init: echo hello
   command: go build
+- init: echo foo
+
 workspaceLocation: "submodules/workspace.json"
 checkoutLocation: "submodules"
